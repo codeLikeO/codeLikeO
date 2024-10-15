@@ -16,6 +16,3 @@
 </div>
 
 ## Hi! Nice to meet you!
-
-<!-- 个人简介 -->
-- 👋 <img src="https://komarev.com/ghpvc/?username=codeLikeO&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
