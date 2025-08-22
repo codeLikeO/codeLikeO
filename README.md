@@ -1,18 +1,13 @@
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=System.out.println(%22codeLike%22)&center=true" alt="Typing SVG" />
-    </div>
-  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=codeLikeO&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codeLikeO" /><br>
+🤖 **欢迎来到我的 GitHub 仓库！** 🚀
 
-  <!-- profile logo 个人资料徽标 -->
-    
-<p><b>Technology has the power to make the world a better place.</b></p>
-</div>
+🐟️ 我是一位热爱技术和解决问题的咸鱼。我的开源项目诞生于日常生活中遇到的各种小难题和需求。
 
-## Hi! Nice to meet you!
+🎉 感谢你的到访，希望你在这里能找到你需要的东西！
+
+
+
+✈️ **自用机场推荐** 🛩️
+
+☁️[*果粒橙：**低至5元/月***](https://guolicheng.cc/index.php#/register?code=VvreuU8e) 
