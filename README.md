@@ -16,4 +16,4 @@
 
 **Fun** 
 
-![](https://raw.githubusercontent.com/codeLikeO/codeLikeO/output/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/codeLikeO/codeLikeO/output/github-contribution-grid-snake.svg)
