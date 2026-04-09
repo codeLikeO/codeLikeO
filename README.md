@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=codeLikeO&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
+
 
 🤖 **欢迎来到我的 GitHub 仓库！** 🚀
 
